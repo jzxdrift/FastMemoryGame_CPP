@@ -1,1 +1,1 @@
-# FastMemoryGame_CPP
+This application is a console memory game.
